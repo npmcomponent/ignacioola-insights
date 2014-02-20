@@ -1,7 +1,7 @@
-var bind = require("bind")
-  , Emitter = require("emitter")
-  , d3 = require("d3")
-  , toFunction = require('to-function')
+var bind = require('component-bind')
+  , Emitter = require('component-emitter')
+  , d3 = require('mbostock-d3')
+  , toFunction = require('component-to-function')
   , Tooltip = require("./tooltip");
 
 // Constants

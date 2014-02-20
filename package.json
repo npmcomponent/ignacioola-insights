@@ -1,0 +1,21 @@
+{
+  "name": "ignacioola-insights",
+  "description": "A navigatable d3 graph.",
+  "version": "0.11",
+  "keywords": [
+    "d3",
+    "visualization",
+    "force",
+    "graph"
+  ],
+  "styles": [
+    "insights.css"
+  ],
+  "dependencies": {
+    "component-to-function": "git://github.com/npmcomponent/component-to-function.git",
+    "mbostock-d3": "git://github.com/npmcomponent/mbostock-d3.git",
+    "visionmedia-minstache": "git://github.com/npmcomponent/visionmedia-minstache.git",
+    "component-emitter": "git://github.com/npmcomponent/component-emitter.git",
+    "component-bind": "git://github.com/npmcomponent/component-bind.git"
+  }
+}

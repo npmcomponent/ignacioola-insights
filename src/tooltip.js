@@ -1,4 +1,4 @@
-var minstache = require("minstache");
+var minstache = require('visionmedia-minstache');
 
 function Tooltip(options) {
     options = options || {};
